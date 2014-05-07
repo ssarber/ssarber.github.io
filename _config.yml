@@ -10,7 +10,7 @@ title:            Stan's Mega Blog
 tagline:          'Simply the best blog in the world'
 # description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 description: 	  'And this is a little side bar, as you can see.'
-url:              ssarber.github.io
+url:              http://ssarber.github.io
 
 author:
   name:           'Mark Otto'
