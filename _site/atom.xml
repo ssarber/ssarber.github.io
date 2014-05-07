@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Stan's Mega Blog</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2014-05-06T22:14:28-07:00</updated>
- <id>http://localhost:4000</id>
+ <link href="ssarber.github.io/atom.xml" rel="self"/>
+ <link href="ssarber.github.io/"/>
+ <updated>2014-05-06T22:43:56-07:00</updated>
+ <id>ssarber.github.io</id>
  <author>
    <name>Mark Otto</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Announcing first ever... blog post!</title>
-   <link href="http://localhost:4000/2014/04/29/stans-super-post-new/"/>
+   <link href="ssarber.github.io/2014/04/29/stans-super-post-new/"/>
    <updated>2014-04-29T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2014/04/29/stans-super-post-new</id>
+   <id>ssarber.github.io/2014/04/29/stans-super-post-new</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/public/my-pic-small.jpg&quot; alt=&quot;My pic&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Yo, check out &lt;a href=&quot;http://sungevity.com&quot;&gt;my link&lt;/a&gt;.&lt;/p&gt;
@@ -66,7 +66,7 @@
 
 &lt;p&gt;Thanks!
 If you liked this post, you can
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=http://localhost:4000/2014/04/29/stans-super-post-new/&amp;text=Announcing first ever... blog post!&amp;via=mytwitter&quot; 
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=ssarber.github.io/2014/04/29/stans-super-post-new/&amp;text=Announcing first ever... blog post!&amp;via=mytwitter&quot; 
    target=&quot;_blank&quot;&gt;
   share it with your followers&lt;/a&gt; 
 or 
@@ -77,9 +77,9 @@ or
  
  <entry>
    <title>Stan's super comment</title>
-   <link href="http://localhost:4000/2014/04/29/stans-super-post/"/>
+   <link href="ssarber.github.io/2014/04/29/stans-super-post/"/>
    <updated>2014-04-29T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2014/04/29/stans-super-post</id>
+   <id>ssarber.github.io/2014/04/29/stans-super-post</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/public/my-pic-small.jpg&quot; alt=&quot;My pic&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Yo, &lt;a href=&quot;http://jekyllrb.com&quot;&gt;mylink&lt;/a&gt; &lt;/p&gt;
@@ -124,9 +124,9 @@ or
  
  <entry>
    <title>Introducing Lanyon</title>
-   <link href="http://localhost:4000/2014/01/02/introducing-lanyon/"/>
+   <link href="ssarber.github.io/2014/01/02/introducing-lanyon/"/>
    <updated>2014-01-02T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2014/01/02/introducing-lanyon</id>
+   <id>ssarber.github.io/2014/01/02/introducing-lanyon</id>
    <content type="html">&lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It&amp;#39;s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
 
 &lt;h3&gt;Built on Poole&lt;/h3&gt;
@@ -169,9 +169,9 @@ or
  
  <entry>
    <title>Example content</title>
-   <link href="http://localhost:4000/2014/01/01/example-content/"/>
+   <link href="ssarber.github.io/2014/01/01/example-content/"/>
    <updated>2014-01-01T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2014/01/01/example-content</id>
+   <id>ssarber.github.io/2014/01/01/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
@@ -300,9 +300,9 @@ or
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://localhost:4000/2013/12/31/whats-jekyll/"/>
+   <link href="ssarber.github.io/2013/12/31/whats-jekyll/"/>
    <updated>2013-12-31T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2013/12/31/whats-jekyll</id>
+   <id>ssarber.github.io/2013/12/31/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
