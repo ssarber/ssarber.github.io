@@ -1,29 +1,34 @@
 ---
 layout: post
-title: Stan's new comment
+title: Announcing first ever... blog post!
+comments: true
+tags: awesome wow
 ---
 
 ![My pic](/public/my-pic-small.jpg)
 
-Yo, [mylink](http://sungevity.com) 
+Yo, check out [my link](http://sungevity.com).
 
-### What's this
+### What's this?
 
 My very interesting post about:
 
 * Nothing.
 * Not much.
 * Nada.
+* Zilch.
 
 ### Check out my code
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+You can highlight `code elements` with backquotes.
 
 {% highlight scala linenos %}
 // Meaningful comment
 
 val bob: String = "bob"
 {% endhighlight %}
+
+{% gist 5555251 %}
 
 ### And now...
 
@@ -45,16 +50,5 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 Thanks!
+{% include twitter_plug.html %}
