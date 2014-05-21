@@ -6,10 +6,11 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Stan's Mega Blog
-tagline:          'Simply the best blog in the world'
+title:            Sungevity Software Engineering Blog
+# title: 			<img src="/public/logo.gif">
+tagline:          'Software Engineering'
 # description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-description: 	  'And this is a little side bar, as you can see.'
+description: 	  'Where would you like to go?'
 url:              http://ssarber.github.io
 
 author:
@@ -22,4 +23,4 @@ paginate:         1
 version:          0.0.1
 
 github:
-  repo:           https://github.com/ssarber/ssarber.github.io
+  repo:           https://github.com/ssarber/ssarber.github.io	  

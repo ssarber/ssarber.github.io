@@ -7,6 +7,11 @@ tags: awesome wow
 
 ![My pic](/public/my-pic-small.jpg)
 
+#### My personal credo:
+> 
+> If you fail to fail, you succeed.
+> 
+
 Yo, check out [my link](http://sungevity.com).
 
 ### What's this?
@@ -20,7 +25,7 @@ My very interesting post about:
 
 ### Check out my code
 
-You can highlight `code elements` with backquotes.
+You can highlight `code elements` with backticks.
 
 {% highlight scala linenos %}
 // Meaningful comment
