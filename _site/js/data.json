@@ -1,0 +1,51 @@
+[
+  {
+    "name":"Barot Bellingham",
+    "shortname":"Barot_Bellingham",
+    "reknown":"Very Cool Cat",
+    "bio":"Now that we know who you are, I know who I am. I'm not a mistake! It all makes sense! In a comic, you know how you can tell who the arch-villain's going to be?"
+  },
+  {
+    "name":"Grumpy Cat",
+    "shortname":"Grumpy_Cat",
+    "reknown":"Very Grumpy Cat",
+    "bio":"He's the exact opposite of the hero. And most times they're friends, like you and me! I should've known way back when... You know why, David? Because of the kids. They called me Mr Glass."
+  },
+  {
+    "name":"Hipster Cat",
+    "shortname":"Hipster_Cat",
+    "reknown":"Likes Blue Bottle",
+    "bio":"Do you see any Teletubbies in here? Do you see a slender plastic tag clipped to my shirt with my name printed on it?"
+  
+  },
+  {
+    "name":"Billy the Kid Cat",
+    "shortname":"Cowboy_Cat",
+    "reknown":"Gunslingin'",
+    "bio":"Do you see a little Asian child with a blank expression on his face sitting outside on a mechanical helicopter that shakes when you put quarters in it? No? Well, that's what you see at a toy store. And you must think you're in a toy store, because you're here shopping for an infant named Jeb."
+  },
+  {
+    "name":"Who Cares Cat",
+    "shortname":"Who_Cares_Cat",
+    "reknown":"I sure don't",
+    "bio":"Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing."
+  },
+  {
+    "name":"Crazy Cat",
+    "shortname":"Crazy_Cat",
+    "reknown":"Crazy Cat",
+    "bio":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC."
+  },
+  {
+    "name":"Haleimullin Genrich Katzman",
+    "shortname":"Riley_Rewington",
+    "reknown":"Not a Cat",
+    "bio":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+  },
+  {
+    "name":"Xhou Ta",
+    "shortname":"Xhou_Ta",
+    "reknown":"Mega Cat",
+    "bio":"The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham."
+  }
+]
