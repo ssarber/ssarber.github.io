@@ -7,8 +7,6 @@ tags: awesome wow
 
 ![My pic](/public/my-pic-small.jpg)
 
-Yo, check out [my link](http://sungevity.com).
-
 ### What's this?
 
 My very interesting post about:

@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -19,7 +19,7 @@ author:
 paginate:         1
 
 # Custom vars
-version:          0.0.1
+version:          0.0.2
 
 github:
-  repo:           https://github.com/ssarber/ssarber.github.io
+  repo:           https://github.com/ssarber
