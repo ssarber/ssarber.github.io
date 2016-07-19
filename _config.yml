@@ -9,12 +9,12 @@ permalink:        pretty
 title:            Stan's Mega Blog
 tagline:          'Simply the best blog in the world'
 # description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-description: 	  'And this is a little side bar, as you can see.'
+description: 	  'Where to?'
 url:              http://ssarber.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Stan Sarber'
+  url:            https://twitter.com/zookgek
 
 paginate:         1
 
