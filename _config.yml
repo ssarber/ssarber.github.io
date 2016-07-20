@@ -2,6 +2,8 @@
 markdown:         redcarpet
 highlighter:      pygments
 
+gems: [jekyll-paginate, jekyll-gist]
+
 # Permalinks
 permalink:        pretty
 
@@ -9,7 +11,7 @@ permalink:        pretty
 title:            Stan's Mega Blog
 tagline:          'Simply the best blog in the world'
 # description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-description: 	  'Where to?'
+description: 	    'Where to?'
 url:              http://ssarber.github.io
 
 author:

@@ -10,7 +10,7 @@
 
   <title>
     
-      Blog &middot; Stan's Mega Blog
+      About &middot; Stan's Mega Blog
     
   </title>
 
@@ -42,9 +42,7 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item active" href="/">Blog</a>
-
-<!--     <a class="sidebar-nav-item" href="/">Writing</a> -->
+    <a class="sidebar-nav-item" href="/">Blog</a>
 
     
 
@@ -62,7 +60,7 @@
     
       
         
-          <a class="sidebar-nav-item" href="/apps/">Apps</a>
+          <a class="sidebar-nav-item active" href="/apps.mdown">About</a>
         
       
     
@@ -81,6 +79,7 @@
       
     
     <a class="sidebar-nav-item" href="https://github.com/ssarber">GitHub</a>
+    <a class="sidebar-nav-item" href="404.html">Reading list</a>
     <span class="sidebar-nav-item">Currently v0.0.2</span>
   </nav>
 
@@ -105,36 +104,22 @@
       </div>
 
       <div class="container content">
-        <div class="posts">
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/2016/07/16/post/">
-        Announcing second ever... blog post!
-      </a>
-    </h1>
+        <div class="page">
+  <h1 class="page-title">About</h1>
+  ![My pic](/public/my-pic-small.jpg)
 
-    <span class="post-date">16 Jul 2016</span>
+ Hey there! Here are some of the things I'm working on these days:
 
-    <p><img src="/public/my-pic-small.jpg" alt="My pic"></p>
+> [Komic](http://komicapp.com) - collaborative comedy writing. In the App Store now. 
+> Intro price: free. What? A $20 value absolutely free? Yep. Today only. And if you think
+I'll throw in a set of Ginsu knives and an authentic genuine imitation plastic bulletproof selfie stick, you can forget it.
+I'm in the market for those items myself.
 
-<h2>Welcome visitor!</h2>
+> [Write Farewell](http://writefarewell.com) - in beta. Possibly the most dangerous app for any office worker.
+Once it comes out that is.
 
-<p>Click or tap the hamburger thingy on the left for navigational options.</p>
-
-  </div>
-  
+Other places I might appear on: Twitter [@zookgek](https://twitter.com/zookgek) and [GitHub](https://github.com/ssarber). Don't be a stranger, say hello or something less friendly, it's all good.
 </div>
-
-<div class="pagination">
-  
-    <a class="pagination-item older" href="/page2">Older</a>
-  
-  
-    <span class="pagination-item newer">Newer</span>
-  
-</div>
-
 
       </div>
     </div>
